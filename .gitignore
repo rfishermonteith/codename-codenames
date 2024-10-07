@@ -1,4 +1,5 @@
-data/distances/*
-data/outputs/*
-data/images/*
-data/embeddings/*
+data/distances/
+data/outputs/
+data/images/
+data/embeddings/
+.idea/
