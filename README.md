@@ -1,6 +1,6 @@
 # codename-codenames
 
-This is an exploratory repo to try play optimal Codenames. I've written about this here.
+This is an exploratory repo to try play optimal Codenames. I've written about this [here](https://rfishermonteith.github.io/writing/2024/10/07/codenames/).
 
 Most of the functions can be called with optional parameters, which can be used to specify the model (bert or hash), 
 size (small or big) or file format (json or pkl). You can see the help by running `python <function_name>.py --help`.
